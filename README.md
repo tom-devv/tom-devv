@@ -1,5 +1,4 @@
 # Hello 👋, I'm Tom.
-I'm an aspiring computer scientist
 
 
 ## 📊
